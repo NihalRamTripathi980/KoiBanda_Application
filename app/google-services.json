@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "643934918613",
+    "project_id": "koibanda-applicaton-ecaf2",
+    "storage_bucket": "koibanda-applicaton-ecaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:643934918613:android:9a2959849f8eff770ecf5c",
+        "android_client_info": {
+          "package_name": "com.example.koibanda_applicaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "643934918613-1vp8t0vfq6924eptaeg2u4qofa0rd8gl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUY-86tmTTdDbO2Cx372EzN83IM-5VbLU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "643934918613-1vp8t0vfq6924eptaeg2u4qofa0rd8gl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
