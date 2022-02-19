@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1038609125343",
+    "firebase_url": "https://koibanda-70a42-default-rtdb.firebaseio.com",
+    "project_id": "koibanda-70a42",
+    "storage_bucket": "koibanda-70a42.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038609125343:android:a1cc48d56bc880242ffe6a",
+        "android_client_info": {
+          "package_name": "com.example.koibanda_applicaton"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038609125343-f2fepdqlinsoh68iv90qqjfgi14u9gnn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC4EjjZ9Di9bSGT32yMLsk4O00G4BalW0w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038609125343-f2fepdqlinsoh68iv90qqjfgi14u9gnn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
